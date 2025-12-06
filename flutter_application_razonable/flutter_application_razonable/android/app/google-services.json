@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951705674726",
+    "project_id": "fluttersocmed-ebce7",
+    "storage_bucket": "fluttersocmed-ebce7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951705674726:android:9ec5085b528f7fc7d62c27",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_razo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOGfgpoVU7qy7CsVwn06VCWP-LEabOPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

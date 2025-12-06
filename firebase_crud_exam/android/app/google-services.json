@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "3738446029",
+    "firebase_url": "https://fir-crudexam-default-rtdb.firebaseio.com",
+    "project_id": "fir-crudexam",
+    "storage_bucket": "fir-crudexam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3738446029:android:63277eba6e88cd49cd6184",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFcUBfPvqnTpsNaW5tHmWfgsqtbK7jWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
